@@ -2,7 +2,7 @@
 
 ### About me | 关于我
 
-- FireflyGlimmer, A code enthusiast | FireflyGlimmer，一个代码爱好者
+- FireflyGlimmer, A code enthusiast. | FireflyGlimmer，一个代码爱好者
 
 ### Contact me | 联系我
 
