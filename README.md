@@ -6,7 +6,7 @@
 
 ### Contact me | 联系我
 
-- Discord | Discord : FireflyGlimmer
+- Discord | Discord : BocchiLover
 
 <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/FireflyGlimmer?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
