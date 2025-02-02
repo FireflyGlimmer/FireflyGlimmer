@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**FireflyGlimmer/FireflyGlimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me | 关于我
 
-Here are some ideas to get you started:
+- FireflyGlimmer, A code enthusiast | FireflyGlimmer，一个代码爱好者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me | 联系我
+
+- Discord | Discord : FireflyGlimmer
+
+<p align="center">
+    <img alt="" src=https://img.shields.io/github/stars/FireflyGlimmer?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=FireflyGlimmer&style=for-the-badge />
+</p>
+
+![FireflyGlimmer's commit time status](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FireflyGlimmer&theme=transparent&utcOffset=+8)
+
+![FireflyGlimmer's top commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FireflyGlimmer&theme=transparent)
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,bash,kotlin,rust,vscode,androidstudio,java"/>
+  </a>
+</p>
