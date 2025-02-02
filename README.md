@@ -13,9 +13,8 @@
     <img alt="" src=https://komarev.com/ghpvc/?username=FireflyGlimmer&style=for-the-badge />
 </p>
 
-![FireflyGlimmer's commit time status](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FireflyGlimmer&theme=transparent&utcOffset=+8)
-
-![FireflyGlimmer's top commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FireflyGlimmer&theme=transparent)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <h2 align="center">Skills </h2>
 
