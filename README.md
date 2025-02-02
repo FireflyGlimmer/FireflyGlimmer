@@ -13,7 +13,7 @@
     <img alt="" src=https://komarev.com/ghpvc/?username=FireflyGlimmer&style=for-the-badge />
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FireflyGlimmer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FireflyGlimmer's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireflyGlimmer&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h2 align="center">Skills </h2>
